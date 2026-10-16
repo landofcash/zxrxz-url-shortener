@@ -5,12 +5,12 @@
 ![GitHub Stars](https://img.shields.io/github/stars/landofcash/qrxrq?style=social)
 
 
-# 🚀 QRXRQ URL Shortener
+# 🚀 ZXRXZ URL Shortener
 
-QRXRQ is an **URL shortening service** that allows users to shorten and manage links efficiently. It features a **React frontend** with **Tailwind CSS** and a **Node.js backend** with **MongoDB** and **Redis** for performance optimization.
+ZXRXZ is an **URL shortening service** that allows users to shorten and manage links efficiently. It features a **React frontend** with **Tailwind CSS** and a **Node.js backend** with **MongoDB** and **Redis** for performance optimization.
 
-## [🌐 Click To Try It 👀](https://qrxrq.com)
-Check out the live demo: [qrxrq.com](https://qrxrq.com)
+## [🌐 Click To Try It 👀](https://zxrxz.com)
+Check out the live demo: [zxrxz.com](https://zxrxz.com)
 
 ## 🌟 Features
 - Shorten long URLs with a custom incrementing ID approach

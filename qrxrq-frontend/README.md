@@ -1,7 +1,7 @@
-# QRXRQ URL Shortener (Frontend)
+# ZXRXZ URL Shortener (Frontend)
 
 ## Overview
-QRXRQ URL Shortener (Frontend) is a web application that provides a fast and efficient way to shorten URLs. Built with modern technologies, it ensures performance, scalability, and ease of use. The application allows users to generate short URLs using an incrementing ID approach while leveraging caching for optimized performance.
+ZXRXZ URL Shortener (Frontend) is a web application that provides a fast and efficient way to shorten URLs. Built with modern technologies, it ensures performance, scalability, and ease of use. The application allows users to generate short URLs using an incrementing ID approach while leveraging caching for optimized performance.
 
 ## Features
 - URL shortening with incrementing ID approach
@@ -45,7 +45,7 @@ QRXRQ URL Shortener (Frontend) is a web application that provides a fast and eff
 4. Access the application in your browser at `http://localhost:3000`
 
 ## Demo
-Live version: [https://qrxrq.com](https://qrxrq.com)
+Live version: [https://zxrxz.com](https://zxrxz.com)
 
 ## Roadmap
 - Implement user authentication
