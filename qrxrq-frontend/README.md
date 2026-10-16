@@ -30,9 +30,9 @@ ZXRXZ URL Shortener (Frontend) is a web application that provides a fast and eff
 ### Steps
 1. Clone the repository (if not yet. backend and frontend share the same repo):
    ```sh
-   git clone https://github.com/landofcash/qrxrq.git
+   git clone https://github.com/landofcash/zxrxz-url-shortener.git
    
-   cd qrxrq-frontend
+   cd zxrxz-url-shortener/qrxrq-frontend
    ```
 2. Install dependencies:
    ```sh

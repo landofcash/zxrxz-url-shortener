@@ -1,8 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/landofcash/qrxrq)
-![GitHub repo size](https://img.shields.io/github/repo-size/landofcash/qrxrq)
-![GitHub issues](https://img.shields.io/github/issues/landofcash/qrxrq)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/landofcash/qrxrq)
-![GitHub Stars](https://img.shields.io/github/stars/landofcash/qrxrq?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/landofcash/zxrxz-url-shortener)
+![GitHub repo size](https://img.shields.io/github/repo-size/landofcash/zxrxz-url-shortener)
+![GitHub issues](https://img.shields.io/github/issues/landofcash/zxrxz-url-shortener)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/landofcash/zxrxz-url-shortener)
+![GitHub Stars](https://img.shields.io/github/stars/landofcash/zxrxz-url-shortener?style=social)
 
 
 # 🚀 ZXRXZ URL Shortener
@@ -51,8 +51,8 @@ Ensure you have the following installed:
 ### 📥 Installation
 #### 🔽 Clone the repository
 ```sh
-git clone https://github.com/landofcash/qrxrq.git
-cd qrxrq
+git clone https://github.com/landofcash/zxrxz-url-shortener.git
+cd zxrxz-url-shortener
 ```
 
 #### 🏗 Backend Setup
